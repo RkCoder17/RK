@@ -23,7 +23,7 @@ const project = () => {
      <article className='portfolio__item'>
        <br></br>
        <h2 style={{color:"#4db5ff"}}>&nbsp;vChat - Chat Application &nbsp;
-        <a href="https://vchat--application.herokuapp.com/login"> <FiExternalLink /> </a> </h2><br></br>
+        <a href="https://vchat--application.herokuapp.com/"> <FiExternalLink /> </a> </h2><br></br>
         <p><HiCheckCircle/>&nbsp;Build a web application with the purpose of making communication easy with people in an Organisation by sending &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and receiving messages in real time. </p>
         <p><HiCheckCircle/> Using API Different Avatars are used for User Profile Pictures.</p>
        <p><HiCheckCircle/>&nbsp; Tools and Technology Used :- MongoDB, Express Js, React Js, Node Js, Material UI, Socket.io</p> 
